@@ -67,6 +67,12 @@ You can try the working prototype at:
 
 ---
 
+## 📊 Flow Diagram
+
+For a comprehensive visual overview of the application architecture, authentication flow, user journeys, and API interactions, see the [Flow Diagram](FLOW_DIAGRAM.md).
+
+---
+
 ## 📄 Project Structure
 
 ```
